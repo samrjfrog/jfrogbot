@@ -10,7 +10,7 @@ Adding test line
 </div>
 
 ## Table of contents
-This is a test
+Another line of This is a test
 - [What is Frogbot?](#what-is-frogbot)
 - [How does it work?](#how-does-it-work)
   - [General](#general)
