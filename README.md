@@ -1,6 +1,9 @@
 <div align="center">
    
 # Frogbot
+Adding test line
+Adding another line
+
 
 [![Frogbot](images/frogbot-intro.png)](#readme)
 
@@ -10,7 +13,7 @@
 </div>
 
 ## Table of contents
-
+Another line of This is a test
 - [What is Frogbot?](#what-is-frogbot)
 - [How does it work?](#how-does-it-work)
   - [General](#general)
