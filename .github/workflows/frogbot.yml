@@ -6,6 +6,7 @@ on:
     types: [labeled, opened]
 jobs:
   scan-pull-request:
+    environment: frogbot
     runs-on: ubuntu-latest
     steps:
       - name: Install Go
