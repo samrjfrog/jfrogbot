@@ -2,6 +2,9 @@
    
 # Frogbot
 Adding test line
+Adding another line
+
+
 [![Frogbot](images/frogbot-intro.png)](#readme)
 
 [![Build status](https://github.com/jfrog/frogbot/actions/workflows/test.yml/badge.svg)](https://github.com/jfrog/frogbot/actions/workflows/test.yml) [![GitHub Action Test](https://github.com/jfrog/frogbot/actions/workflows/action-test.yml/badge.svg)](https://github.com/jfrog/frogbot/actions/workflows/action-test.yml)
