@@ -19,7 +19,7 @@ jobs:
         with:
           ref: ${{ github.event.pull_request.head.sha }}
 
-      - uses: jfrog/frogbot@dev
+      - uses: samrjfrog/jfrogbot@main
         env:
           # [Mandatory] JFrog platform URL
           JF_URL: ${{ secrets.JF_URL }}
