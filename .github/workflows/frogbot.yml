@@ -8,6 +8,7 @@ jobs:
   scan-pull-request:
     environment: frogbot
     runs-on: ubuntu-latest
+    environment: frogbot
     steps:
       - name: Install Go
         uses: actions/setup-go@v2

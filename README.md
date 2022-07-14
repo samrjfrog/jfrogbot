@@ -1,7 +1,7 @@
 <div align="center">
    
 # Frogbot
-
+Adding test line
 [![Frogbot](images/frogbot-intro.png)](#readme)
 
 [![Build status](https://github.com/jfrog/frogbot/actions/workflows/test.yml/badge.svg)](https://github.com/jfrog/frogbot/actions/workflows/test.yml) [![GitHub Action Test](https://github.com/jfrog/frogbot/actions/workflows/action-test.yml/badge.svg)](https://github.com/jfrog/frogbot/actions/workflows/action-test.yml)
@@ -10,7 +10,7 @@
 </div>
 
 ## Table of contents
-
+Another line of This is a test
 - [What is Frogbot?](#what-is-frogbot)
 - [How does it work?](#how-does-it-work)
   - [General](#general)
